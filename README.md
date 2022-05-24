@@ -11,8 +11,8 @@ Bacharelanda em Sistemas de Informação, apaixonada por desenvolvimento mobile 
     
 </div><br>
 <div> 
-    <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=wanessaramos&show_icons=true&theme=dracula&count_private=true"/> 
-    <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessaramos&layout=compact&langs_count-16&theme=dracula"/>
+    <img align="center" height="50%" src="https://github-readme-stats.vercel.app/api?username=wanessaramos&show_icons=true&theme=dracula&count_private=true"/> 
+    <img align="center" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessaramos&layout=compact&langs_count-16&theme=dracula"/>
 </div>
 <h3>Linguagens que costumo usar:</h3>
 <div style="display:inline_block">
@@ -23,8 +23,7 @@ Bacharelanda em Sistemas de Informação, apaixonada por desenvolvimento mobile 
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div><br>
 <div>
-    <img src="https://github.com/wanessaramos/wanessaramos/blob/output/github-contribution-grid-snake.svg"/>
-   
+    <img src="https://github.com/wanessaramos/wanessaramos/blob/output/github-contribution-grid-snake.svg"/>   
 </div>
 
 
