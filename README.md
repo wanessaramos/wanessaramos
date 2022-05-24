@@ -3,8 +3,8 @@
 Bacharelanda em Sistemas de Informação, apaixonada por desenvolvimento mobile e UX design! 
 
 <div> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?wanessaramos=anuraghazra&repo=github-readme-stats" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?wanessaramos=anuraghazra&repo=convoychat" />
+    <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wanessaramos&repo=github-readme-stats" />
+   
 </div>
 
 Tecnologias que tenho conhecimento e quero dominar:
