@@ -3,7 +3,7 @@
 Bacharelanda em Sistemas de Informação, apaixonada por desenvolvimento mobile e UX design! 
 
 <div> 
-    <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wanessaramos&repo=github-readme-stats" />
+    ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=wanessaramos&show_icons=true&theme=dracula&count_private=true)
    
 </div>
 
