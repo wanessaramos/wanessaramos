@@ -2,9 +2,10 @@
 
 Bacharelanda em Sistemas de Informação, apaixonada por desenvolvimento mobile e UX design! 
 
-<h3>Linguagens que costumo usar:</h3>
+<h3>Você me encontra por aqui::</h3>
 <div style="display:inline_block"><br>
-    <a href="mailto:katiuciawanessa@gmail.com" target=""_blank><img align="center" alt="Gmail" height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:katiuciawanessa@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://api.whatsapp.com/send?phone=5582999196673" target="_blank"><img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 <div> 
     <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=wanessaramos&show_icons=true&theme=dracula&count_private=true"/> 
