@@ -1,6 +1,6 @@
 ## Olá, eu sou a Wanessa Ramos😊
 
-Bacharelanda em Sistemas de Informação, apaixonada por desenvolvimento mobile e UX design! 
+Apaixonada por desenvolvimento mobile e UX design, muito curiosa que adora criar e descobrir coisas novas! 
 
 <h3>Você me encontra por aqui:</h3>
 <div>
