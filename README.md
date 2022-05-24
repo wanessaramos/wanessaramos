@@ -22,6 +22,7 @@ Bacharelanda em Sistemas de Informação, apaixonada por desenvolvimento mobile 
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div><br>
+![Snake animation](https://github.com/wanessaramos/wanessaramos/wanessaramos/blob/output/github-contribution-grid-snake.svg)
 
 
 
