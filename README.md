@@ -23,7 +23,7 @@ Bacharelanda em Sistemas de Informação, apaixonada por desenvolvimento mobile 
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div><br>
 <div>
-    <img src"https://github.com/wanessaramos/wanessaramos/blob/output/github-contribution-grid-snake.svg"/>
+    <img src="https://github.com/wanessaramos/wanessaramos/blob/output/github-contribution-grid-snake.svg"/>
    
 </div>
 
