@@ -11,8 +11,8 @@ Apaixonada por desenvolvimento mobile e UX design, muito curiosa que adora criar
     
 </div><br>
 <div> 
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wanessaramos&show_icons=true&theme=dracula&count_private=true"/> 
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessaramos&layout=compact&langs_count-16&theme=dracula"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wanessaramos&show_icons=true&theme=dracula"/> 
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessaramos&hide_progress&layout=compact&theme=dracula"/>
 </div>
 <h3>Linguagens que costumo usar:</h3>
 <div style="display:inline_block">
